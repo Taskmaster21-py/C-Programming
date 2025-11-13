@@ -25,7 +25,7 @@ int main() {
         }
     }
 
-    // Display result
+
     printf("The sum of all odd numbers between %d and %d is: %d\n", start, end, sum);
 
     return 0;
@@ -34,3 +34,4 @@ int main() {
 
 
     
+
